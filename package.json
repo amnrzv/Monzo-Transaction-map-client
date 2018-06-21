@@ -4,6 +4,7 @@
   "description": "",
   "main": "filter-data.js",
   "scripts": {
+    "start": "node filter-data.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,7 @@
   "bugs": {
     "url": "https://github.com/amnrzv/Monzo-Transaction-map-client/issues"
   },
-  "homepage": "https://github.com/amnrzv/Monzo-Transaction-map-client#readme"
+  "homepage": "https://github.com/amnrzv/Monzo-Transaction-map-client#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
