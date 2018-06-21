@@ -2,9 +2,9 @@
   "name": "monzo-transaction-map-client",
   "version": "0.0.1",
   "description": "",
-  "main": "filter-data.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node filter-data.js",
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
