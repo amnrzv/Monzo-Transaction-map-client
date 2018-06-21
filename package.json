@@ -1,0 +1,24 @@
+{
+  "name": "monzo-transaction-map-client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "filter-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amnrzv/Monzo-Transaction-map-client.git"
+  },
+  "keywords": [
+    "monzo",
+    "mapbox",
+    "graph"
+  ],
+  "author": "Amaan Rizvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amnrzv/Monzo-Transaction-map-client/issues"
+  },
+  "homepage": "https://github.com/amnrzv/Monzo-Transaction-map-client#readme"
+}
