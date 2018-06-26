@@ -7,6 +7,16 @@ var data = [{
       size:14
     },
     text:['Montreal', 'Rizvi']
+  },
+  {
+    type:'scattermapbox',
+    lat:['25.5017', '27'],
+    lon:['-13.5673', '-40'],
+    mode:'markers',
+    marker: {
+      size:18
+    },
+    text:['Something', 'Else']
   }]
   
   var layout = {
